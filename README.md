@@ -1,7 +1,7 @@
 # Customing-terminal
 Customing your terminal with zsh and oh my zsh on ubuntu
 
-# Customing with zsh
+* # Customing with zsh
 ## 1 - Install the zsh command interpreter  
 
 `sudo apt install zsh`  
@@ -18,7 +18,7 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 It is ready to work. Try type any command in your terminal.
 
 
-# Custom with "oh my zsh framework"
+* # Custom with "oh my zsh framework"
 There are different ways to customize with Oh My Zsh. The easiest is to use the Powerlevel10k configuration.
 ## 2 - Install oh my zsh
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`  

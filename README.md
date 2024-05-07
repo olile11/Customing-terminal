@@ -1,5 +1,4 @@
-# Customing-terminal
-Customing your terminal with zsh and oh my zsh on ubuntu
+# Customing your terminal with zsh and oh my zsh on ubuntu
 
 * # Customing with zsh
 ## 1 - Install the zsh command interpreter  
